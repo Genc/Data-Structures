@@ -8,7 +8,7 @@ public class BubbleSort {
         while(degistirdi){
             degistirdi = false ;
             for (i = 0; i < dizi.length -1; i++) {
-                // eðer bir sonraki eleman þuanda bulunan indisteki elemandan büyükse yer deðiþtirme iþlemi yapýyoruz.
+                // eÄŸer bir sonraki eleman ÅŸuanda bulunan indisteki elemandan bÃ¼yÃ¼kse yer deÄŸiÅŸtirme iÅŸlemi yapÄ±yoruz.
 				if(dizi[i]>dizi[i+1]){
                     degistirdi = true ;
                     tmp = dizi[i];

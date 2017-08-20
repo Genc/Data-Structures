@@ -1,29 +1,29 @@
-# Java'da Veri Yapıları / Data Structure in Java
+# Java'da Veri YapÄ±larÄ± / Data Structure in Java
 
-  -  [Tek Yönlü Bağlı Listeler   / Linked List]
-  -  [Çift Yönlü Bağlı Listeler  / Doubly Linked List]
-  -  [Yığıt 		       / Stack]
+  -  [Tek YÃ¶nlÃ¼ BaÄŸlÄ± Listeler   / Linked List]
+  -  [Ã‡ift YÃ¶nlÃ¼ BaÄŸlÄ± Listeler  / Doubly Linked List]
+  -  [YÄ±ÄŸÄ±t 		       / Stack]
   -  [Kuyruk		       / Queue]
-  -  [İkili Arama Ağaçları       / Binary Search Tree]
-  -  [Sıralama Algoritmaları / Sorting Algorithms]
+  -  [Ä°kili Arama AÄŸaÃ§larÄ±       / Binary Search Tree]
+  -  [SÄ±ralama AlgoritmalarÄ± / Sorting Algorithms]
 
-# Hakkında
+# HakkÄ±nda
 
->Genel olarak bu konularda "ekleme,silme,arama" gibi **temel işlemler** yapılmıştır.
-Kodlar içerisinde **yorum satırı** şeklinde açıklamalara yer verilmiştir.
-Bu yazılmış olan kodlar konsol üzerinde çalışmaktadır.
-Aynı zamanda siz kendi GUI'nizi oluşturup metodları çağırarak olaya görsellik katabilirsiniz.
+>Genel olarak bu konularda "ekleme,silme,arama" gibi **temel iÅŸlemler** yapÄ±lmÄ±ÅŸtÄ±r.
+Kodlar iÃ§erisinde **yorum satÄ±rÄ±** ÅŸeklinde aÃ§Ä±klamalara yer verilmiÅŸtir.
+Bu yazÄ±lmÄ±ÅŸ olan kodlar konsol Ã¼zerinde Ã§alÄ±ÅŸmaktadÄ±r.
+AynÄ± zamanda siz kendi GUI'nizi oluÅŸturup metodlarÄ± Ã§aÄŸÄ±rarak olaya gÃ¶rsellik katabilirsiniz.
 
 ### Kaynak
-  - Kaynak olarak burayı kullanabilirsiniz: http://www.geeksforgeeks.org/data-structures/
-  - Ders notları,slaytlar ve pdf için ayrı bir klasör oluşturdum oradan bu kaynaklara [ulaşabilirsiniz.]
+  - Kaynak olarak burayÄ± kullanabilirsiniz: http://www.geeksforgeeks.org/data-structures/
+  - Ders notlarÄ±,slaytlar ve pdf iÃ§in ayrÄ± bir klasÃ¶r oluÅŸturdum oradan bu kaynaklara [ulaÅŸabilirsiniz.]
 
 _Sevgiler_ :heart:
 
-  [Tek Yönlü Bağlı Listeler / Linked List]: <https://github.com/FarukGenc/Data-Structures/tree/master/1%20-%20SinglyLinkedList>
-  [Çift Yönlü Bağlı Listeler / Doubly Linked List]: <https://github.com/FarukGenc/Data-Structures/tree/master/2%20-%20DoublyLinkedList>
-  [Yığıt / Stack]: <https://github.com/FarukGenc/Data-Structures/tree/master/3%20-%20Stack>
+  [Tek YÃ¶nlÃ¼ BaÄŸlÄ± Listeler / Linked List]: <https://github.com/FarukGenc/Data-Structures/tree/master/1%20-%20LinkedList>
+  [Ã‡ift YÃ¶nlÃ¼ BaÄŸlÄ± Listeler / Doubly Linked List]: <https://github.com/FarukGenc/Data-Structures/tree/master/2%20-%20Doubly%20Linked%20List>
+  [YÄ±ÄŸÄ±t / Stack]: <https://github.com/FarukGenc/Data-Structures/tree/master/3%20-%20Stack>
   [Kuyruk / Queue]: <https://github.com/FarukGenc/Data-Structures/tree/master/4%20-%20Kuyruk>
-  [İkili Arama Ağaçları / Binary Search Tree]: <https://github.com/FarukGenc/Data-Structures/tree/master/5%20-%20BinarySearchTree>
-  [Sıralama Algoritmaları / Sorting Algorithms]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20ISortingAlgorithms>
-  [ulaşabilirsiniz.]: <https://github.com/FarukGenc/Data-Structures/tree/master/NOTLAR>
+  [Ä°kili Arama AÄŸaÃ§larÄ± / Binary Search Tree]: <https://github.com/FarukGenc/Data-Structures/tree/master/5%20-%20Binary%20Search%20Tree>
+  [SÄ±ralama AlgoritmalarÄ± / Sorting Algorithms]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20Sorting%20Algorithms>
+  [ulaÅŸabilirsiniz.]: <https://github.com/FarukGenc/Data-Structures/tree/master/NOTLAR>
