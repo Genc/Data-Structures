@@ -22,9 +22,9 @@ public class BubbleSort {
     
     public static void main(String[] args) {
         
-        BubbleSort a = new BubbleSort();
+        BubbleSort bubble = new BubbleSort();
         int dizi [] = {5,7,2,9,6,1,3};
-        a.kabarcik(dizi);
+        bubble.kabarcik(dizi);
         for (int i = 0; i < dizi.length; i++) {
             System.out.print(dizi[i] + " ");
             
