@@ -1,4 +1,4 @@
-package singlylinkedlist;
+package linkedlist;
 // Her bir elemanımızın veri yapısını oluşturuyoruz.
 class Eleman{
     int sayi ;
@@ -10,11 +10,11 @@ class Eleman{
 }
 
 // Elemanlarımızı Tek Yönlü Bağlı Listede tutuyoruz.
-public class SinglyLinkedList {
+public class LinkedList {
     Eleman bas; // Baştaki elemanı tutuyoruz.
     Eleman son; // Sondaki elemanı tutuyoruz.
     
-    public SinglyLinkedList(){
+    public LinkedList(){
         bas=null; // ilk başta boş tanımlıyoruz.
         son=null; 
         
@@ -169,7 +169,7 @@ public class SinglyLinkedList {
     }
 
     public static void main(String[] args) {
-       SinglyLinkedList liste = new SinglyLinkedList(); // Liste sınıfından liste adında nesne oluşturuyoruz.
+       LinkedList liste = new LinkedList(); // Liste sınıfından liste adında nesne oluşturuyoruz.
        Eleman a = new Eleman(5); // Yeni bir eleman oluşturup 
        liste.basaEkle(a); // 'başa ekleme' yapıyoruz.
        a = new Eleman(9); // yeni bir eleman daha oluşturup 'sona ekleme' yapıyoruz.

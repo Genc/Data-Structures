@@ -1,4 +1,4 @@
-package ıkiliaramaagaci;
+package binarysearchtree;
 
 // Ağacımızın veri yapısını oluşturuyoruz.Sol ve Sağı gösteren aynı çift yönlü bağlı listedeki gibi düşünülebilir.
 class Dugum{
@@ -8,12 +8,12 @@ class Dugum{
         this.icerik = icerik ;
         sol=sag=null;
 }
-public class IkiliAramaAgaci {
+public class BinarySearchTree {
     Dugum kok ;
     String ino = " ";
     String pre = " ";
     String post = " ";
-    public IkiliAramaAgaci() {
+    public BinarySearchTree() {
     kok = null;
     }
     
