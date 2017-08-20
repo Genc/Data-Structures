@@ -19,9 +19,9 @@ public class InsertionSort {
     }
 
     public static void main(String[] args) {
-        InsertionSort a = new InsertionSort();
+        InsertionSort insertion = new InsertionSort();
         int dizi[] = {2, 3, 1, 6, 4, 22, 3, -3, 5, -3123, 22};
-        a.insertionSort(dizi);
+        insertion.insertionSort(dizi);
         for (int i = 0; i < dizi.length; i++) {
             System.out.print(dizi[i] + " ");
 
