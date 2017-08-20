@@ -16,8 +16,7 @@ public class LinkedList {
     
     public LinkedList(){
         bas=null; // ilk başta boş tanımlıyoruz.
-        son=null; 
-        
+        son=null;         
     }
     
     public void basaEkle(Eleman yeni){

@@ -10,7 +10,6 @@ class Eleman{
         this.geri = null;
     }
 }
-
 public class DoublyLinkedList {
 // Elemanlarımızı Çift Yönlü Bağlı Listede tutuyoruz.
     Eleman bas ;

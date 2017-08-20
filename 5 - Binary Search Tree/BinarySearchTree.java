@@ -4,7 +4,7 @@ package binarysearchtree;
 class Dugum{
     int icerik ;
     Dugum sol,sag;
-    Dugum(int icerik){
+    Dugum(int icerik){		
         this.icerik = icerik ;
         sol=sag=null;
 }
@@ -69,6 +69,7 @@ public class BinarySearchTree {
     // Ekleme yaparken gelen sayı ile karşılaştırıyoruz.
     // Eğer sayımız root'dan(kök) başlayıp tüm alanlara baka baka büyükse sağa değilse sola doğru kaydırıyoruz.
     void ekle(Dugum yeni){
+		
         Dugum y = null;
         Dugum x = kok;
         
