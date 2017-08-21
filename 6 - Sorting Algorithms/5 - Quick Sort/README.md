@@ -4,7 +4,10 @@
 
 -> Olayýn sonunda elimizde ilk baþta seçtiðimiz(pivot) deðerimizden küçükler solda büyükler saðda sýralanmýþ bir yapý oluþuyor. Bizde pivot deðerimizi bu 2 listenin arasýna(ortasýna) koyuyoruz. Ayný iþlemler oluþan sol dizi ve sað dizi için tekrarlanýyor.
 
-[![](http://www.farukgenc.com/Sorting-Animation/Quicksort-Diagram.png)](http://www.farukgenc.com/Sorting-Animation/Quicksort-Diagram.png)
+
+-> Aþaðýdaki diyagramda pivot **ortadaki** eleman seçilmiþ ve i **sað** deðiþkeni j ise **sol** deðiþkenini temsil ediyor :) 
+[![](http://www.farukgenc.com/Sorting-Animation/quick-sort.png)](http://www.farukgenc.com/Sorting-Animation/quick-sort.png)
+
 
 ##### Daha iyi anlamak adýna þu animasyonu izleyebilirsiniz.
 
