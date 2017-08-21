@@ -1,6 +1,6 @@
 # Selection Sort / Seçmeli Sýralama
 
-Dizimizdeki en küçük eleman bulunur ve baþa alýnýr bu tüm listenin gezilmesi ile saðlanýr. Ýlk indisten baþlayýp dizinin sonuna kadar gidip, karþýlaþtýrmalar yapýlýp daha küçük bir sayý bulunduysa yer deðiþtirilip bu sefer döngümüz bir sonraki indisten baþlayýp devam etmelidir.(optimize)
+Dizimizdeki en küçük eleman bulunur ve baþa alýnýr bu tüm listenin gezilmesi ile saðlanýr. Ýlk indisten baþlayýp dizinin sonuna kadar gidip, karþýlaþtýrmalar yapýlýp daha küçük bir sayý bulunduysa yer deðiþtirilip bu sefer döngümüz bir sonraki indisten baþlayýp devam etmelidir. (optimize)
 
 ```
 Dizimiz => {5,7,2,9,6,1,3}

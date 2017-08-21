@@ -67,6 +67,7 @@ public class InfixToPostfix {
         return sonuc;
     }
     public static void main(String[] args) {
+		
         InfixToPostfix d = new InfixToPostfix();
         String sonuc = "(a+b)*(c*(d-e))";
         System.out.println(d.infixToPostfix(sonuc));

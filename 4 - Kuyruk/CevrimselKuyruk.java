@@ -7,6 +7,7 @@ class CevrimselKuyruk {
     int bas,son,N;
     
     CevrimselKuyruk(int N){
+		
         dizi = new int[N];
         this.N = N;
         bas = son = 0 ;
@@ -36,8 +37,7 @@ class CevrimselKuyruk {
         int sonuc = 0;
         if(!bos()){
             sonuc = dizi[bas];
-            bas = (bas+1) % N ;
-            
+            bas = (bas+1) % N ;            
         }
         return sonuc ;
     }

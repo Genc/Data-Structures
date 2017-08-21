@@ -1,6 +1,6 @@
 # Bubble Sort / Kabarcýk Sýralamasý
 
-Kabarcýk sýralamasýnda arka arkaya gelen 2 veri karþýlaþtýrýlýp, büyük olan deðer küçük olan deðerle yer deðiþtirir.
+Kabarcýk sýralamasýnda arka arkaya gelen 2 veri karþýlaþtýrýlýp, büyük olan deðer küçük olan deðerle yer deðiþtirir(swap).
 
 ```
 Dizimiz => {5,7,2,9,6,1,3}

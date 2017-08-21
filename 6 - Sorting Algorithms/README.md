@@ -26,8 +26,8 @@
    [videolarý]: <https://goo.gl/CJEh8z>
    [kaynaklar]: <https://goo.gl/qrdpdk>
    [Bubble Sort / Kabarcýk Sýralamasý]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20Sorting%20Algorithms/1%20-%20Bubble%20Sort>
-   [Selection Sort / Seçme Sýralamasý]: <#>
-   [Insertion Sort / Eklemeli Sýralama]: <#>
-   [Merge Sort / Birleþtirmeli Sýralama]: <#>
-   [Quick Sort / Hýzlý Sýralama]: <#>
+   [Selection Sort / Seçme Sýralamasý]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20Sorting%20Algorithms/2%20-%20Selection%20Sort>
+   [Insertion Sort / Eklemeli Sýralama]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20Sorting%20Algorithms/3%20-%20Insertion%20Sort>
+   [Merge Sort / Birleþtirmeli Sýralama]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20Sorting%20Algorithms/4%20-%20Merge%20Sort>
+   [Quick Sort / Hýzlý Sýralama]: <https://github.com/FarukGenc/Data-Structures/tree/master/6%20-%20Sorting%20Algorithms/5%20-%20Quick%20Sort>
    [site]: <https://www.toptal.com/developers/sorting-algorithms/>

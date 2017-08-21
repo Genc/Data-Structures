@@ -6,6 +6,7 @@
 
 
 -> Aþaðýdaki diyagramda pivot **ortadaki** eleman seçilmiþ ve i **sað** deðiþkeni j ise **sol** deðiþkenini temsil ediyor :) 
+
 [![](http://www.farukgenc.com/Sorting-Animation/quick-sort.png)](http://www.farukgenc.com/Sorting-Animation/quick-sort.png)
 
 

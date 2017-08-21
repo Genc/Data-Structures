@@ -20,14 +20,13 @@ public class BubbleSort {
         }
     }
     
-    public static void main(String[] args) {
-        
+	public static void main(String[] args) {
+		
         BubbleSort bubble = new BubbleSort();
         int dizi [] = {5,7,2,9,6,1,3};
         bubble.kabarcik(dizi);
         for (int i = 0; i < dizi.length; i++) {
-            System.out.print(dizi[i] + " ");
-            
+            System.out.print(dizi[i] + " ");            
         }
        
     }

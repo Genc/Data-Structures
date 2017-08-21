@@ -24,7 +24,6 @@ public class InsertionSort {
         insertion.insertionSort(dizi);
         for (int i = 0; i < dizi.length; i++) {
             System.out.print(dizi[i] + " ");
-
         }
     }
 

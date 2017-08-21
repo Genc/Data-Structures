@@ -5,6 +5,7 @@ package kuyruk;
 class Eleman {
     int sayi ;
     Eleman ileri ;
+	
     public Eleman(int sayi) {
     this.sayi = sayi ;
     ileri = null;

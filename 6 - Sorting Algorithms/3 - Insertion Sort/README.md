@@ -1,6 +1,6 @@
 # Insertion Sort / Eklemeli Sýralama
 
-Dizimizin 2.elamýndan baþlayarak bir önceki elemanlarla karþýlaþtýrma yapýlarak ilerler. Eðer karþýlaþtýrma yaptýðý eleman daha büyükse **saða** doðru kaydýrýlýr. Kendinide bir nevi araya eklemiþ olur.
+Dizimizin 2.elamýndan baþlayarak bir önceki elemanlarla karþýlaþtýrma yapýlarak sona doðru ilerler. Eðer karþýlaþtýrma yaptýðý eleman daha büyükse **saða** doðru kaydýrýlýr. Kendinide bir nevi araya eklemiþ olur.
 
 ```
 Dizimiz => {33,44,21,45,25,14}

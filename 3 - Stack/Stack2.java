@@ -14,6 +14,7 @@ class Ornek{
 }
 
 public class Stack2 {
+	
     Ornek [] d ;
     int ust ;
     int N;
