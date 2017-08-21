@@ -50,7 +50,7 @@ public class QuickSort {
     public static void main(String args[]) {
         int[] dizi = {23, 31, 1, 21, 36, 72};
         System.out.println("Sıralanmamış dizi : " + Arrays.toString(dizi));
-        quickSort(dizi); // sort the integer array using quick sort algorithm
+        quickSort(dizi);
         System.out.println("Sıralanmış dizi : " + Arrays.toString(dizi));
     }
 }
