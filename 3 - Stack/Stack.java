@@ -31,6 +31,7 @@ public class Stack {
         if(!dolumu()){
             ust = ust + 1 ;
             s[ust] = x;
+            System.out.println(x);
         }
     }
     
@@ -38,13 +39,45 @@ public class Stack {
     int pop(){
         if(!bosmu()){
             ust = ust - 1 ;
+            System.out.println(s[ust+1]);
             return s[ust+1];
         }
         return -1;
     }
     
     public static void main(String[] args) {
-                
+        int size=5;
+        Stack s= new Stack(size);  
+        System.out.println("Stack' e eleman ekliyoruz: ");
+        s.push(4);
+        s.push(9);
+        s.push(1);
+        s.push(7);
+        s.push(3);
+        System.out.println("Stack' ten eleman çıkartıyoruz: ");
+        
+        s.pop();
+        s.pop();
+        s.pop();
+        s.pop();
+        s.pop();
+        
+        /*EKRAN CIKTISI
+         * Stack' e eleman ekliyoruz: 
+			4
+			9
+			1
+			7
+			3
+		* Stack' ten eleman çıkartıyoruz: 
+			3
+			7
+			1
+			9
+			4
+
+         * */
+        //Son giren ilk cikar      
     }
     
 }
